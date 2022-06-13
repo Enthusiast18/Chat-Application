@@ -1,14 +1,11 @@
 # Chat-Application
----------------------------------------------------------------
+
 Run server file in the command line using the following format: 
-python server.py -p <port_number>
----------------------------------------------------------------
-  
-  
+python server.py -p <port_numb>
+
 ---------------------------------------------------------------
 Run client file in the command line using the following format:
-python client.py -p <server_port_number> -u <username>
----------------------------------------------------------------
+python3 client.py -p <server_port_num> -u <user_name>
   
 ---------------------------------------------------------------
 Following are the functionalities of the chat app:
